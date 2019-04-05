@@ -5,6 +5,7 @@
 	"dependencies": {
 		"@types/tone": "https://github.com/Tonejs/TypeScript.git",
 		"fene": "^1.2.0",
+		"illa": "^16.0.0",
 		"react-scripts": "2.1.8",
 		"tone": "^13.4.9",
 		"typescript": "3.3.4000"
